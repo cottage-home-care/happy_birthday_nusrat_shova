@@ -89,7 +89,7 @@ export default function WisherSection() {
 
                 <div className="space-y-4 text-foreground/90 leading-relaxed">
                   <p className="text-base md:text-lg text-pretty">
-                    {"Dear CEO,"}
+                    {"Dear COO,"}
                   </p>
                   <p className="text-base md:text-lg text-pretty">
                     {
